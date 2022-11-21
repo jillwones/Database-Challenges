@@ -11,7 +11,7 @@ Write a small program in app.rb using the class AlbumRepository to print out the
 
 ---
 
-Here is the repo of this completed exercise: [repo]()
+Here is the repo of this completed exercise: [repo](https://github.com/jillwones/music_library)
 
 ---
 
