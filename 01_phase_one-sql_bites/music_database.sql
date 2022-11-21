@@ -2,7 +2,7 @@
 
 THIS FILE WAS WRITTEN BY THE COACHES AND IS JUST HERE TO BUILD OUT THE FIRST DATABASE FOR US, a table of albums and a table of artists.
 
-This music_library database is what we played around with when we were introduced to SELECT, UPDATE, DELETE FROM etc
+This music_library database is what we played around with when we were introduced to SELECT, UPDATE, DELETE FROM, INSERT INTO etc
 
 */
 
