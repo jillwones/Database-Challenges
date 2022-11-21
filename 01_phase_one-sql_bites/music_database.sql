@@ -1,3 +1,14 @@
+/*
+
+THIS FILE WAS WRITTEN BY THE COACHES AND IS JUST HERE TO BUILD OUT THE FIRST DATABASE FOR US, a table of albums and a table of artists.
+
+This music_library database is what we played around with when we were introduced to SELECT, UPDATE, DELETE FROM etc
+
+*/
+
+
+
+
 DROP TABLE IF EXISTS "public"."albums";
 -- This script only contains the table creation statements and does not fully represent the table in the database. It's still missing: indices, triggers. Do not use it as a backup.
 
