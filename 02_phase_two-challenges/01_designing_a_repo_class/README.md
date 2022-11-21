@@ -45,6 +45,6 @@ $ ruby app.rb
 ```
 ---
 
-Here is the repo of this completed challenge: [repo]()
+Here is the repo of this completed challenge: [repo](https://github.com/jillwones/book_store)
 
 ---
