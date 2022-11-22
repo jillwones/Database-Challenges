@@ -45,4 +45,4 @@ Then:
    test-drive and implement two methods `all` and `find`.
 3. Write code in the main file `app.rb` so it prints out the list of recipes.
 
-Here is the [repo]() with this completed challenge.
+Here is the [repo](https://github.com/jillwones/recipes_directory) with this completed challenge.
