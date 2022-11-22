@@ -5,7 +5,7 @@ You should create a new database `blog` for this challenge.
 Infer the table schema from these user stories.
 
 1. Copy the Design Recipe template and use it to design the schema for the tables.
-2. Create the tables by loading the SQL file in `psql`.
+2. Create the tables by loading the SQL file in `psql`
 
 ```
 As a blogger
