@@ -75,6 +75,6 @@ Then:
 
 ---
 
-Here is the [repo](https://github.com/jillwones/music_library) with the completed challenge.
+Here is the [repo]() with the completed challenge.
 
 ---
