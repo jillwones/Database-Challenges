@@ -75,6 +75,6 @@ Then:
 
 ---
 
-Here is the [repo]() with the completed challenge.
+Here is the [repo](https://github.com/jillwones/social_network) with the completed challenge.
 
 ---
