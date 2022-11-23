@@ -31,4 +31,4 @@ Here is the list of albums:
  * 12 -	Ring Ring
 ```
 
-Here is the [repo](https://github.com/jillwones/music_library/blob/main/app.rb) with the completed application class.
+Here is the [repo](https://github.com/jillwones/music_library/) with the completed application class.
