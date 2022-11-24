@@ -31,4 +31,6 @@ For this challenge, reuse the database schema created [in the previous section](
 
 Test-drive and implement Model and Repository classes for the table `tags`, with the method `TagRepository#find_by_post`. This method should accept a post ID, and return an array of related  `Tag` objects.
 
+I made the method but instead of accepting the post ID it accepts the post title. It still returns an array of related `Tag` objects though.
+
 Here is the [repo](https://github.com/jillwones/blog_many-to-many) with this completed challenge.
