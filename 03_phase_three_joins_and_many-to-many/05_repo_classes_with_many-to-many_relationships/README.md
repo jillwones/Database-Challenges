@@ -23,7 +23,7 @@ Setup a new project `blog` for this exercise.
 
 Test-drive and implement Model and Repository classes for the table `posts`, with the method `PostRepository#find_by_tag` having the behaviour described above.
 
-Here is the [repo]() with this completed exercise.
+Here is the [repo](https://github.com/jillwones/blog_many-to-many) with this completed exercise.
 
 ## Challenge
 
